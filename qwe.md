@@ -1,3 +1,3 @@
 # QWE
 
-Some text for feature
+Some text for feature.
